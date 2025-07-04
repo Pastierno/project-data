@@ -29,6 +29,7 @@ project-data/
 
 ### Competizioni Kaggle
 - Predict Calorie Expenditure - [https://github.com/Pastierno/project-data/tree/main/kaggle_competition/calories_predictions]
+- Predict Optimal Fertilizers - [https://github.com/Pastierno/project-data/tree/main/projects/kaggle_competition/fertilizer_predictions]
 
 ### Progetti di Analisi dei Dati
 - [In arrivo]
@@ -80,17 +81,6 @@ Suggerimenti e feedback sono sempre benvenuti! Se desideri contribuire:
 4. Push al branch (`git push origin feature/nome-feature`)
 5. Apri una Pull Request
 
-## 📧 Contatti
-
-[Inserire qui le tue informazioni di contatto]
-
-## 📄 Licenza
-
-Questo progetto è concesso in licenza con [Nome della Licenza] - vedi il file LICENSE per i dettagli.
-
----
 
 ⭐️ Da [Pastierno](https://github.com/Pastierno)
-```
 
-Ora puoi copiare tutto questo testo e incollarlo direttamente nel tuo file README.md nel repository GitHub.
