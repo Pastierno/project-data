@@ -29,6 +29,7 @@ project-data/
 
 ### Competizioni Kaggle
 - Predict Calorie Expenditure - [https://github.com/Pastierno/project-data/tree/main/kaggle_competition/calories_predictions]
+- Predict Optimal Fertilizers - [https://github.com/Pastierno/project-data/tree/main/projects/kaggle_competition/fertilizer_predictions]
 
 ### Progetti di Analisi dei Dati
 - [In arrivo]
