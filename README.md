@@ -83,6 +83,4 @@ Suggerimenti e feedback sono sempre benvenuti! Se desideri contribuire:
 
 
 ⭐️ Da [Pastierno](https://github.com/Pastierno)
-```
 
-Ora puoi copiare tutto questo testo e incollarlo direttamente nel tuo file README.md nel repository GitHub.
