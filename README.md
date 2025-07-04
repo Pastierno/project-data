@@ -81,15 +81,6 @@ Suggerimenti e feedback sono sempre benvenuti! Se desideri contribuire:
 4. Push al branch (`git push origin feature/nome-feature`)
 5. Apri una Pull Request
 
-## 📧 Contatti
-
-[Inserire qui le tue informazioni di contatto]
-
-## 📄 Licenza
-
-Questo progetto è concesso in licenza con [Nome della Licenza] - vedi il file LICENSE per i dettagli.
-
----
 
 ⭐️ Da [Pastierno](https://github.com/Pastierno)
 ```
